@@ -22,3 +22,6 @@ Some of commit message in this repository are following the Commitizen conventio
 The `fib` example contains configuration of Doxygen (`fib/Doxygfile`) and Netlify (`netlify.toml`)
 that automatically build doxygen (using `cd fib && make doc`), and publish the generated document
 to [https://ou-cs3560-f19-examples.netlify.com/](https://ou-cs3560-f19-examples.netlify.com/).
+
+
+This repository is also used as a mechanism for students to practice creating pull requests.
